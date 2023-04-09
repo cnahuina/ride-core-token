@@ -1,0 +1,25 @@
+{
+  "name": "ride-system-tokens",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/ride-system-tokens",
+  "projectType": "library",
+  "targets": {
+    "build": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          "node packages/ride-system-tokens/build.js"
+        ]
+      }
+    },
+    "version": {
+      "executor": "@jscutlery/semver:version",
+      "options": {
+        "baseBranch": "master",
+        "preset": "conventional",
+        "tagPrefix": "${projectName}@"
+      }
+    }
+  },
+  "tags": []
+}
