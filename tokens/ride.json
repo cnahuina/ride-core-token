@@ -1462,7 +1462,7 @@
             "type": "color"
           }
         },
-        "color-journey-brand": {
+        "journey-brand": {
           "value": "{ride-gl.color.brand.60}",
           "type": "color"
         },
@@ -1496,29 +1496,29 @@
             "type": "color"
           }
         },
-        "color-shimmer": {
+        "shimmer": {
           "value": "linear-gradient(90deg, rgba({ride-gl.color.effect.60}, 0.12) 11.36%, rgba({ride-gl.color.effect.60}, 0.24) 40.91%, rgba({ride-gl.color.effect.60}, 0.12) 65.1%)",
           "type": "color"
         },
-        "color-overlay": {
+        "overlay": {
           "value": "rgba({ride-gl.color.effect.100} , 0.84)",
           "type": "color"
         },
-        "color-topbar-fullmodal": {
+        "topbar-fullmodal": {
           "value": "linear-gradient(180deg, {ride-gl.color.neutral.10} 0%, rgba({ride-gl.color.neutral.10}, 0.8) 100%)",
           "type": "color",
           "description": "Background Effect"
         },
-        "color-topbar": {
+        "topbar": {
           "value": "linear-gradient(180deg, {ride-gl.color.neutral.0} 0%, rgba({ride-gl.color.neutral.0}, 0.8) 100%)",
           "type": "color"
         },
-        "color-fixed-mobile": {
+        "fixed-mobile": {
           "value": "linear-gradient(180deg, rgba({ride-gl.color.neutral.10}, 0) 0%, {ride-gl.color.neutral.10} 100%)",
           "type": "color",
           "description": "Fixed mobile"
         },
-        "color-surface-disabled": {
+        "surface-disabled": {
           "value": "rgba({ride-gl.color.effect.60}, 0.1)",
           "type": "color",
           "description": "Buttons disabled"
