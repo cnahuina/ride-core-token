@@ -1522,7 +1522,7 @@
       }
     }
   },
-  "ride-app0": {
+  "ride-app": {
     "ride-gl": {
       "font-weight-regular": {
         "value": "400",
@@ -3009,7 +3009,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "ride",
-      "ride-app0"
+      "ride-app"
     ]
   }
 }
