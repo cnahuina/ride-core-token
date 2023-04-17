@@ -1243,6 +1243,10 @@
           "strong": {
             "value": "{ride-gl.color.neutral.80}",
             "type": "color"
+          },
+          "transparent": {
+            "value": "{ride-gl.color.transparent}",
+            "type": "color"
           }
         },
         "background": {
@@ -2719,6 +2723,10 @@
           },
           "strong": {
             "value": "{ride-gl.color.neutral.80}",
+            "type": "color"
+          },
+          "transparent": {
+            "value": "{ride-gl.color.transparent}",
             "type": "color"
           }
         },
