@@ -1526,7 +1526,7 @@
       }
     }
   },
-  "ride-app2": {
+  "ride-app": {
     "gl": {
       "color": {
         "brand": {
@@ -3017,7 +3017,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "ride",
-      "ride-app2"
+      "ride-app"
     ]
   }
 }
