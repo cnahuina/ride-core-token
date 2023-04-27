@@ -2516,7 +2516,7 @@
               "lineHeight": "{gl.line-height-medium}",
               "fontSize": "{gl.font-size-small}",
               "letterSpacing": "{gl.letter-spacing-3xlarge}",
-              "textCase": "{ride-gl.text-transform-uppercase}"
+              "textCase": "{gl.text-transform-uppercase}"
             },
             "type": "typography",
             "description": "Title 12 Uppercase | Use: Títulos cortos que va  arriba o debajo de un título."
